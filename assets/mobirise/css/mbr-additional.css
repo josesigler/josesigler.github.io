@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-
 
 
 
@@ -413,14 +412,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-7 .mbr-section-title {
-  text-align: center;
-  color: #efefef;
-  font-family: 'Lora', serif;
-}
-#header1-7 .mbr-section-lead {
-  color: #ffffff;
-}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -485,6 +476,9 @@ h6,
 #header3-9 .mbr-section-title,
 #header3-9 .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box5-y P {
+  color: #ffffff;
 }
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -1287,5 +1281,8 @@ h6,
   color: #ffffff;
 }
 #form1-u .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
+}
+#form1-u SMALL {
+  color: #000000;
 }
