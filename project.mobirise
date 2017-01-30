@@ -21,8 +21,13 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 35,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 36,
+    "versionPublish": "3.11.1",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "gitHubName": "josesigler",
+    "gitHubPath": "",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -199,6 +204,26 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Goals",
+          "meta": ""
+        },
+        {
           "_inherit": "features3",
           "_tags": [
             "Theme"
@@ -290,7 +315,7 @@
           },
           "title4": "Graduate with a Masters Degree in Cyber Security",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "When we were building the website we needed to change the code in the webiste and when we opened the page that had code a whole new world opned for me&nbsp;",
+          "caption4": "When we were building the website we needed to change the code in the webiste and when we opened the page that had code a whole new world opned for me and i saw i loved reading and modifying code. &nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1520,7 +1545,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01-1-2000x1036.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01%20(1)-2000x1036.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
