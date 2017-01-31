@@ -23,6 +23,11 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 43,
     "versionPublish": "3.11.1",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "gitHubName": "josesigler",
+    "gitHubPath": "",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -139,7 +144,7 @@
             "paddingBottom": "7",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328-1.jpg",
+            "bgImage": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1328_1.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -158,7 +163,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "src": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1518,7 +1523,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01-1-2000x1036.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01%20(1)-2000x1036.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
