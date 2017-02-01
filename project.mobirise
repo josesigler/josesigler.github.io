@@ -68,13 +68,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ea3a55"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ee5a71!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ef687d"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -93,7 +93,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-t",
           "_params": {
-            "bgColor": "#ef687d",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -225,7 +225,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e24f66",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -464,7 +464,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-a",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -653,7 +653,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-b",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -746,7 +746,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-c",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -839,7 +839,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-d",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -932,7 +932,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-e",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1025,7 +1025,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-i",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1118,7 +1118,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1211,7 +1211,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-g",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1304,7 +1304,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-j",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1397,7 +1397,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-k",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1490,7 +1490,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-m",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1667,7 +1667,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-l",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1760,7 +1760,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-t",
           "_params": {
-            "bgColor": "#2c2c2c",
+            "bgColor": "#000000",
             "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
