@@ -23,11 +23,6 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 48,
     "versionPublish": "3.11.1",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "gitHubName": "josesigler",
-    "gitHubPath": "",
-    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -147,7 +142,7 @@
             "paddingBottom": "7",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1328_1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328-1.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1499,7 +1494,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01%20(1)-2000x1036.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/01-1-2000x1036.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1876,7 +1871,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x1842-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/discuss%20it%20topic%206-2000x1842.jpg",
+                "image": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x1842.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
