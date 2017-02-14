@@ -21,13 +21,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 70,
+    "uniqCompNum": 74,
     "versionPublish": "3.11.1",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "gitHubName": "josesigler",
-    "gitHubPath": "",
-    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -169,13 +164,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1w",
+          "_anchor": "msg-box8-20",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1334.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -189,9 +184,9 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Biography&nbsp;",
+          "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more of me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
@@ -326,6 +321,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "footer1-21",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#424242",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Jose Sigle r"
         }
       ]
     },
@@ -1637,7 +1657,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/metal%20background-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/metal-background-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {

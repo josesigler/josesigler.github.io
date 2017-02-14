@@ -472,8 +472,8 @@ h6,
 #ext_menu-t .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-1w .mbr-section-title,
-#msg-box8-1w p {
+#msg-box8-20 .mbr-section-title,
+#msg-box8-20 p {
   color: #fff;
 }
 #header3-1v .mbr-section-title,
@@ -483,6 +483,9 @@ h6,
 #header3-1v H3 {
   color: #ffffff;
   font-size: 30px;
+}
+#footer1-21 P {
+  color: #efefef;
 }
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
