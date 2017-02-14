@@ -23,11 +23,6 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 70,
     "versionPublish": "3.11.1",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "gitHubName": "josesigler",
-    "gitHubPath": "",
-    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -157,7 +152,7 @@
           },
           "title": "Jose Sigler&nbsp;",
           "text": "Welcome to my website click the bottom below to see more about of my work and see my biography. Scroll down to see a few samples of my work.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#contacts4-1t\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>  "
         },
         {
           "_styles": {
@@ -1637,7 +1632,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/metal%20background-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/metal-background-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
