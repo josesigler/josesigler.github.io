@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 94,
+    "uniqCompNum": 95,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -369,7 +369,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<p><strong>Address</strong><br>12885sw 10st<br>Miami, FL 33184<br><br><br>\n<strong>Contacts</strong><br>\nEmail: jsigler@miamiartsstudio.com<br>\nPhone: 786 448-9293&nbsp;&nbsp;&nbsp;&nbsp;<br>\nFax: 786 448-9293</p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jsigler@miamiartsstudio.com",
@@ -1538,7 +1538,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<p><strong>Address</strong><br>12885sw 10st<br>Miami, FL 33184<br><br><br>\n<strong>Contacts</strong><br>\nEmail: jsigler@miamiartsstudio.com<br>\nPhone: 786 448-9293&nbsp;&nbsp;&nbsp;&nbsp;<br>\nFax: 786 448-9293</p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jsigler@miamiartsstudio.com",
@@ -2283,7 +2283,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<p><strong>Address</strong><br>12885sw 10st<br>Miami, FL 33184<br><br><br>\n<strong>Contacts</strong><br>\nEmail: jsigler@miamiartsstudio.com<br>\nPhone: 786 448-9293&nbsp;&nbsp;&nbsp;&nbsp;<br>\nFax: 786 448-9293</p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jsigler@miamiartsstudio.com",
