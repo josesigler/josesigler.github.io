@@ -2101,7 +2101,7 @@
                 "image": "@PROJECT_PATH@/assets/images/jose-sigler-5-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
