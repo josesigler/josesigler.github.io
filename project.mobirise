@@ -23,6 +23,11 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 101,
     "versionPublish": "3.11.1",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "gitHubName": "josesigler",
+    "gitHubPath": "",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -207,7 +212,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/image-for-youtube-3-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/image%20for%20youtube%203-2000x1125.png",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "bgVideo": {
@@ -245,7 +250,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCmyHHTRQxGz-2elt4tmcp9A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Youtube channel</a>",
           "_styles": {
             "H3": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           }
         },
@@ -296,8 +301,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bmw-drifting-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bmw-drifting-2000x1125.jpg",
+                "thumb": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/bmw-drifting-2000x1125-800x450.jpg",
+                "image": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/bmw%20drifting-2000x1125.jpg",
                 "caption": "Photoshop",
                 "active": false
               },
@@ -306,8 +311,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/finalize-for-website-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finalize-for-website-2000x1334.jpg",
+                "thumb": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/finalize-for-website-2000x1334-800x533.jpg",
+                "image": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/finalize%20for%20website-2000x1334.jpg",
                 "caption": "illustrator",
                 "active": false
               },
@@ -316,8 +321,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1334.jpg",
+                "thumb": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/img-2000x1334-800x533.jpg",
+                "image": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/img-2000x1334.jpg",
                 "caption": "Logos&nbsp;",
                 "active": false
               },
@@ -326,8 +331,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file-000-for-web-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/file-000-for-web-2000x1333.jpg",
+                "thumb": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/file-000-for-web-2000x1333-800x533.jpg",
+                "image": "file:///C:/Users/0281967/AppData/Local/Mobirise.com/Mobirise/projectData/file_000%20for%20web-2000x1333.jpg",
                 "caption": "Taken pictures",
                 "active": true
               }
@@ -1006,7 +1011,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/metal-background-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/metal%20background-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2064,7 +2069,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-1-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%201-2000x1500.jpg",
                 "caption": "Piece 1&nbsp;",
                 "active": false
               },
@@ -2074,7 +2079,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-2-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%202-2000x1500.jpg",
                 "caption": "Piece 2&nbsp;",
                 "active": false
               },
@@ -2084,7 +2089,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-3-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%203-2000x1500.jpg",
                 "caption": "Piece 3",
                 "active": false
               },
@@ -2094,7 +2099,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-4-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-4-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%204-2000x1500.jpg",
                 "caption": "Piece 4",
                 "active": false
               },
@@ -2104,7 +2109,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-5-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-5-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%205-2000x1500.jpg",
                 "caption": "Piece 5&nbsp;",
                 "active": false
               },
@@ -2114,7 +2119,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-6-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-6-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%206-2000x1500.jpg",
                 "caption": "<p>Piece 6&nbsp;</p>",
                 "active": false
               },
@@ -2124,7 +2129,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-7-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-7-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%207-2000x1500.jpg",
                 "caption": "Piece 7",
                 "active": false
               },
@@ -2134,7 +2139,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-8-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-8-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%208-2000x1500.jpg",
                 "caption": "Piece 8",
                 "active": false
               },
@@ -2144,7 +2149,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-9-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-9-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%209-2000x1500.jpg",
                 "caption": "Piece 9",
                 "active": false
               },
@@ -2154,7 +2159,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-10-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-10-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2010-2000x1500.jpg",
                 "caption": "Piece 10&nbsp;",
                 "active": false
               },
@@ -2164,7 +2169,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-11-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-11-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2011-2000x1500.jpg",
                 "caption": "Piece 11",
                 "active": false
               },
@@ -2174,7 +2179,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-12-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-12-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2012-2000x1500.jpg",
                 "caption": "Piece 12",
                 "active": false
               },
@@ -2184,7 +2189,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-13-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-13-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2013-2000x1500.jpg",
                 "caption": "Piece 13&nbsp;",
                 "active": false
               },
@@ -2194,7 +2199,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-14-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-14-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2014-2000x1500.jpg",
                 "caption": "Piece 14&nbsp;",
                 "active": false
               },
@@ -2204,7 +2209,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-15-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-15-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2015-2000x1500.jpg",
                 "caption": "Piece 15&nbsp;",
                 "active": false
               },
@@ -2214,7 +2219,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-16-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-16-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2016-2000x1500.jpg",
                 "caption": "Piece 16&nbsp;",
                 "active": false
               },
@@ -2224,7 +2229,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-17-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-17-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2017-2000x1500.jpg",
                 "caption": "Piece 17&nbsp;",
                 "active": false
               },
@@ -2234,7 +2239,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-18-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-18-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2018-2000x1500.jpg",
                 "caption": "Piece 18&nbsp;",
                 "active": false
               },
@@ -2244,7 +2249,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-19-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-19-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2019-2000x1500.jpg",
                 "caption": "Piece 19&nbsp;",
                 "active": false
               },
@@ -2254,7 +2259,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jose-sigler-20-complete-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jose-sigler-20-complete-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jose%20sigler%2020%20complete-2000x1500.jpg",
                 "caption": "Piece 20",
                 "active": true
               }
