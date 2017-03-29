@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 99,
+    "uniqCompNum": 101,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -195,40 +195,59 @@
           "meta": ""
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-20",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2s",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image-for-youtube-3-2000x1125.png",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/vc_Y2iCq28k?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
-            "overlay": true,
+            "bgVideoRadio": false,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
+            "inverse": true,
             "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "showText": false,
+            "showButtons": true
           },
-          "title": "YouTube Videos&nbsp;",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/To5xrN0KofU",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Youtube Video",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCmyHHTRQxGz-2elt4tmcp9A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Youtube channel</a>",
+          "_styles": {
+            "H3": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
