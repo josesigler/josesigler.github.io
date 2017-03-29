@@ -242,7 +242,7 @@
           },
           "title": "Youtube Video",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCmyHHTRQxGz-2elt4tmcp9A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Youtube channel</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=To5xrN0KofU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Youtube channel</a>",
           "_styles": {
             "H3": {
               "color": "#ffffff"
