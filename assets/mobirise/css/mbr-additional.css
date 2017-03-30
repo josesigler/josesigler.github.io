@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -479,25 +479,25 @@ h6,
 #header3-2c .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box8-2y .mbr-section-title,
+#msg-box8-2y p {
+  color: #fff;
+}
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2v H3 {
+  color: #ffffff;
+  font-family: 'Roboto Slab', serif;
+}
+#gallery1-2w .mbr-gallery-item > div > span {
+  font-family: 'Lora', serif;
+  font-size: 14px;
+}
 #header3-2a .mbr-section-title,
 #header3-2a .mbr-section-subtitle {
   text-align: center;
-}
-#msg-box4-2s H3 {
-  color: #ffffff;
-}
-#header3-2g .mbr-section-title,
-#header3-2g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2g H3 {
-  color: #ffffff;
-  text-align: right;
-  font-family: 'Roboto', sans-serif;
-}
-#gallery1-2f .mbr-gallery-item > div > span {
-  font-family: 'Lora', serif;
-  font-size: 14px;
 }
 #header3-2e .mbr-section-title,
 #header3-2e .mbr-section-subtitle {

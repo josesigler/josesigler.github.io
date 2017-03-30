@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 101,
+    "uniqCompNum": 110,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -130,7 +130,7 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1x",
+          "_anchor": "header1-31",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -176,78 +176,37 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-2a",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2y",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": ""
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2s",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/image-for-youtube-3-2000x1125.png",
-            "bgColor": "#c1c1c1",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-14-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
+            "overlayColor": "#000000",
+            "showTitle": false,
             "showText": false,
-            "showButtons": true
+            "showButton": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/To5xrN0KofU",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Youtube Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=To5xrN0KofU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch this Video!</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Watch my Story!&nbsp;</a>"
         },
         {
           "_styles": {
@@ -256,24 +215,23 @@
             },
             "H3": {
               "color": "#ffffff",
-              "text-align": "right",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2g",
+          "_anchor": "header3-2v",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#c1a176",
-            "showMeta": true
+            "bgColor": "#514839",
+            "showMeta": false
           },
-          "title": "Samples of my work",
-          "meta": ""
+          "title": "Samples of my Work&nbsp;",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -296,7 +254,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bmw-drifting-2000x1125-800x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bmw-drifting-2000x1125-800x450-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bmw-drifting-2000x1125.jpg",
                 "caption": "Photoshop",
                 "active": false
@@ -306,7 +264,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/finalize-for-website-2000x1334-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/finalize-for-website-2000x1334-800x533-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/finalize-for-website-2000x1334.jpg",
                 "caption": "illustrator",
                 "active": false
@@ -316,8 +274,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1334-800x533-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1334-1.jpg",
                 "caption": "Logos&nbsp;",
                 "active": false
               },
@@ -326,7 +284,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file-000-for-web-2000x1333-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-for-web-2000x1333-800x533-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/file-000-for-web-2000x1333.jpg",
                 "caption": "Taken pictures",
                 "active": true
@@ -335,14 +293,34 @@
             "spacing": 0,
             "showText": true,
             "filter": false,
-            "bgColor": "#c1a176",
+            "bgColor": "#514839",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery1-2f",
+          "_anchor": "gallery1-2w",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_styles": {
@@ -381,7 +359,7 @@
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#282828",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1362,7 +1340,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#282828",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1915,7 +1893,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#282828",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
