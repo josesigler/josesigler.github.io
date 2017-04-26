@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-25_1323",
-    "currentPage": "index.html",
+    "currentPage": "athousandmillionreasons.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,12 +24,7 @@
     "uniqCompNum": 117,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "gitHubName": "josesigler",
-    "gitHubPath": "",
-    "publishPath": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -2832,8 +2827,8 @@
               "size": 250
             }
           },
-          "title": "A thousand Million Reasons&nbsp;",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "title": "A Thousand Million Reasons&nbsp;",
+          "text": "Watch how my life is back when i was younger, now, and in the future&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
