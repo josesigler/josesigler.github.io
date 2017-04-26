@@ -24,7 +24,12 @@
     "uniqCompNum": 117,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "gitHubName": "josesigler",
+    "gitHubPath": "",
+    "publishPath": ""
   },
   "pages": {
     "index.html": {
