@@ -1521,10 +1521,11 @@ h6,
   color: #c0a375!important;
 }
 #header6-38 .mbr-section-title {
-  color: #28262b;
+  color: #ffffff;
 }
 #header6-38 .mbr-section-text {
-  color: #565656;
+  color: #ffffff;
+  text-align: left;
 }
 #contacts4-37 UL {
   text-align: left;
