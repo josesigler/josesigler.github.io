@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-25_1323",
-    "currentPage": "index.html",
+    "currentPage": "athousandmillionreasons.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,12 @@
     "uniqCompNum": 117,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "gitHubName": "josesigler",
+    "gitHubPath": "",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
