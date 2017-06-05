@@ -130,6 +130,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "header1-31",
           "_params": {
             "parallax": true,
@@ -152,15 +160,7 @@
           },
           "title": "Jose Sigler&nbsp;",
           "text": "Welcome to my website click the bottom below to see more about of my work and see my biography. Scroll down to see a few samples of my work.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>  ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#efefef"
-            },
-            ".mbr-section-title": {
-              "color": "#efefef"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>  "
         },
         {
           "_styles": {
